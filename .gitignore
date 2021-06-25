@@ -1,0 +1,12 @@
+
+.DS_Store
+.gitattributes
+.vscode
+/plugins/__pycache__/
+/__pycache__/
+*.session
+*.session-journal
+/venv/
+/pyrogram/
+.idea
+*.pyc
